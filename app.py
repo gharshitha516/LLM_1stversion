@@ -46,7 +46,6 @@ st.markdown(
     """
     <hr>
     <p style='text-align: center; color: #888; font-size:12px;'>
-    Built with ❤️ using Hugging Face & Streamlit
     </p>
     """,
     unsafe_allow_html=True
